@@ -3,4 +3,4 @@ momepy>=0.5
 contextily>=1.2
 seaborn>=0.12
 cairocffi>=1.4
-igraph>=0.10
+igraph>=1.0.0
